@@ -1,7 +1,7 @@
 import React from 'react';
 import { ReactDOM, ComponentElement } from 'react';
 import './css/App.css';
-import MainPage from './MainPage';
+import MainPage from './MainPage.tsx';
 
 function App() {
   return (
