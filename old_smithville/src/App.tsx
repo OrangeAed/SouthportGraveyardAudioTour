@@ -1,6 +1,7 @@
 import React from 'react';
 import { ReactDOM, ComponentElement } from 'react';
 import './css/App.css';
+import MainPage from './MainPage';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <MainPage></MainPage>
       </header>
     </div>
   );
