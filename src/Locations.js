@@ -1,6 +1,6 @@
 import React from "react";
-import PlaySound from "./PlaySound";
-import Site1 from './audio_files/Site2.m4a'
+import PlaySound from "src/PlaySound";
+import Site1 from 'src/audio_files/Site2.m4a'
 
 function TourLocation(locationName, audio, image, description, props) {
     return (

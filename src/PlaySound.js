@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import Sound from 'react-sound';
-import Site1 from './audio_files/Site1.m4a'
+import Site1 from 'src/audio_files/Site1.m4a'
 
 
 const PlaySound = (

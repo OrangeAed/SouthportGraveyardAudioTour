@@ -1,6 +1,6 @@
 import React from 'react';
-import './audio_files/Site1.m4a';
-import TourLocation from './Locations.js'
+import 'src/audio_files/Site1.m4a';
+import TourLocation from 'src/Locations.js'
 
 function MainPage() {
     return (

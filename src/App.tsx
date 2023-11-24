@@ -1,7 +1,7 @@
 import React from 'react';
 import { ReactDOM, ComponentElement } from 'react';
-import './css/App.css';
-import MainPage from './MainPage.js';
+import 'src/css/App.css';
+import MainPage from 'src/MainPage.js';
 
 function App() {
   return (
